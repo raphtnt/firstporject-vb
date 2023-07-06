@@ -1,0 +1,15 @@
+C:\Users\Etudiant\source\repos\Projet1\Projet1\bin\x64\Debug\Projet1.exe.config
+C:\Users\Etudiant\source\repos\Projet1\Projet1\bin\x64\Debug\Projet1.exe
+C:\Users\Etudiant\source\repos\Projet1\Projet1\bin\x64\Debug\Projet1.pdb
+C:\Users\Etudiant\source\repos\Projet1\Projet1\bin\x64\Debug\Projet1.xml
+C:\Users\Etudiant\source\repos\Projet1\Projet1\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.vbproj.ResolveComReference.cache
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.Form2.resources
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.Resources.resources
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.vbproj.GenerateResource.cache
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.vbproj.CoreCompileInputs.cache
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.vbproj.CopyComplete
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.exe
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.xml
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.pdb
+C:\Users\Etudiant\source\repos\Projet1\Projet1\obj\x64\Debug\Projet1.vbprojAssemblyReference.cache
